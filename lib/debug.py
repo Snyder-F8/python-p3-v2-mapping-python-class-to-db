@@ -5,5 +5,4 @@ from __init__ import CONN, CURSOR
 from department import Department
 
 import ipdb
-
 ipdb.set_trace()
